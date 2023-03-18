@@ -540,6 +540,15 @@
   }
 }
 
+.information__img--container {
+  text-align: center;
+}
+
+#information__img {
+  height: 80%;
+  width: 80%;
+}
+
 @media screen and (max-width: 480px) {
   .information {
     height: auto;
